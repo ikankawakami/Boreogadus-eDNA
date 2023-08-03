@@ -1,0 +1,10 @@
+N 1
+S 0.5c c 0c 0/0/0 0p 0.1c Water mass
+G 0.1
+S 0.5c c 0.3 #BC3C29FF thin,white 1.2c 1
+S 0.5c t 0.42 #0072B5FF thin,white 1.2c 2
+S 0.5c s 0.4 #E18727FF thin,white 1.2c 3
+S 0.5c + 0.35 white thick,#20854EFF 1.2c 4
+S 0.5c s 0.35 white thick,#7876B1FF 1.2c 5
+G -0.46
+S 0.5c x 0.35 white thick,#7876B1FF 1.2c

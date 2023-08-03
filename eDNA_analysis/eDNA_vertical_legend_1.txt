@@ -1,0 +1,7 @@
+N 6
+S 0c c 0c gray 1p,gray20 0.75c AO02
+S 0c c 0c gray 1p,white 2.01c AO26
+S 0c c 0c gray 1p,white 3.27c AO25
+S 0c c 0c gray 1p,white 4.53c AO15
+S 0c c 0c gray 1p,white 5.80c AO21
+S 0c c 0c gray 1p,white 7.07c AO10

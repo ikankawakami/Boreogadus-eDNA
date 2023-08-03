@@ -1,0 +1,15 @@
+N 1
+S 1.2c c 0c 0/0/0 0p 2.3c Negative
+G -0.45
+S 1.2c x 0.25c white 1p,gray60 2.5c
+S 1.2c c 0.2548749c gray 1p,white 2.5c <10
+G 0.05c
+S 1.2c c 0.8059851c gray 1p,white 2.5c 100
+G 0.1c
+S 1.2c c 1.139835c gray 1p,white 2.5c 200
+G 0.25c
+S 1.2c c 1.61197c gray 1p,white 2.5c 400
+G 0.5c
+S 1.2c c 2.27967c gray 1p,white 2.5c 800
+G 0.2c
+S 1.2c c 0c 0/0/0 0p 2.5c (copies/L)
