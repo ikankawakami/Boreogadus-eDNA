@@ -1,2 +1,7 @@
 # Boreogadus-eDNA
- initial commit
+This repository contains R and GMT scripts and its relevant files for reproducing the results of "Distribution and habitat preference of polar cod (Boreogadus saida) in the Bering and Chukchi Seas inferred from species-specific detection of environmental DNA," which is currently under review.
+
+eDNA results and environmental data (Boreogadus_eDNA_data.csv) is available for download from the Arctic Data archive System (ADS) managed by the National Institute of Polar Research, Japan, with the accession number A20230323-002 (https://ads.nipr.ac.jp/dataset/A20230323-002).
+Bathymetry data in netCDF format can be downloaded from GEBCO Gridded Bathymetry Data Download (https://download.gebco.net/).
+The scripts were run using R version 4.1.2 and GMT version 5.4.5.
+
