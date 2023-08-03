@@ -5,3 +5,15 @@ eDNA results and environmental data (Boreogadus_eDNA_data.csv) is available for 
 Bathymetry data in netCDF format can be downloaded from GEBCO Gridded Bathymetry Data Download (https://download.gebco.net/).
 The scripts were run using R version 4.1.2 and GMT version 5.4.5.
 
+Map_eDNA_sites:  
+Create a map for eDNA collection sites with bathymetry.
+
+Water_mass_classification:  
+Classify water masses based on environmental data using the SIMPROF test and principal component analysis (PCA).  
+Summarize the environmental characteristics of each cluster.
+
+eDNA_analysis:  
+Summarize the eDNA results.  
+Plot the polar cod eDNA concentration on a map.  
+Plot the polar cod eDNA concentration on a TS diagram.  
+Perform a logistic regression analysis to relate the eDNA concentration to environmental conditions.  
